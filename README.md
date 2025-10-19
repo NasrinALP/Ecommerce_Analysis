@@ -26,5 +26,3 @@ This project implements a SQL database for e-commerce analytics, focusing on cus
 •	SQL queries for data aggregation, joins, and KPI calculations
 •	Power BI for visualization
 Author: Nasrin Alipour | MSc in Biomedical Informatics Engineering – Amirkabir University of Technology
-<img width="468" height="530" alt="image" src="https://github.com/user-attachments/assets/c6d653c7-827d-4274-8996-bffbb33530eb" />
-
