@@ -1,0 +1,151 @@
+product_id,category,sub_category,product_name,cost_price,unit_price
+P0001,Electronics,Laptop,Artist Laptop,765,1272.66
+P0002,Electronics,Laptop,Race Laptop,1949,2824.03
+P0003,Electronics,Laptop,Team Laptop,1813,2727.92
+P0004,Electronics,Laptop,As Laptop,1880,2258.89
+P0005,Electronics,Laptop,Them Laptop,1686,2325.22
+P0006,Electronics,Laptop,Care Laptop,1402,2170.23
+P0007,Electronics,Laptop,Song Laptop,1551,2316.86
+P0008,Electronics,Laptop,Identify Laptop,504,739.84
+P0009,Electronics,Laptop,Strategy Laptop,1191,1675.83
+P0010,Electronics,Laptop,Weight Laptop,1330,2204.77
+P0011,Electronics,Smartphone,Gas Smartphone,972,1431.96
+P0012,Electronics,Smartphone,Role Smartphone,859,1478.99
+P0013,Electronics,Smartphone,Fill Smartphone,1628,2186.87
+P0014,Electronics,Smartphone,Level Smartphone,984,1318.7
+P0015,Electronics,Smartphone,Likely Smartphone,1788,2586.28
+P0016,Electronics,Smartphone,Southern Smartphone,851,1401.45
+P0017,Electronics,Smartphone,Explain Smartphone,1644,2873.81
+P0018,Electronics,Smartphone,Produce Smartphone,980,1403.01
+P0019,Electronics,Smartphone,Anything Smartphone,1559,2612.01
+P0020,Electronics,Smartphone,Room Smartphone,1535,2745.33
+P0021,Electronics,Headphones,Voice Headphones,1214,2159.58
+P0022,Electronics,Headphones,Treat Headphones,458,687.63
+P0023,Electronics,Headphones,Case Headphones,1408,1970.07
+P0024,Electronics,Headphones,Enough Headphones,405,698.43
+P0025,Electronics,Headphones,These Headphones,1101,1387.07
+P0026,Electronics,Headphones,State Headphones,1135,1372.45
+P0027,Electronics,Headphones,Safe Headphones,495,715.76
+P0028,Electronics,Headphones,Food Headphones,1540,2744.24
+P0029,Electronics,Headphones,When Headphones,353,523.04
+P0030,Electronics,Headphones,Nation Headphones,742,1041.13
+P0031,Home,Vacuum Cleaner,Music Vacuum Cleaner,1618,2327.48
+P0032,Home,Vacuum Cleaner,Matter Vacuum Cleaner,364,622.83
+P0033,Home,Vacuum Cleaner,Involve Vacuum Cleaner,1945,3120.98
+P0034,Home,Vacuum Cleaner,Unit Vacuum Cleaner,1292,1844.98
+P0035,Home,Vacuum Cleaner,Either Vacuum Cleaner,848,1336.52
+P0036,Home,Vacuum Cleaner,According Vacuum Cleaner,1755,2619.81
+P0037,Home,Vacuum Cleaner,Feel Vacuum Cleaner,1308,1597.77
+P0038,Home,Vacuum Cleaner,Property Vacuum Cleaner,340,455.89
+P0039,Home,Vacuum Cleaner,Bank Vacuum Cleaner,1601,2805.84
+P0040,Home,Vacuum Cleaner,Past Vacuum Cleaner,665,1095.96
+P0041,Home,Air Purifier,Pattern Air Purifier,1088,1944.26
+P0042,Home,Air Purifier,Move Air Purifier,1757,2776.5
+P0043,Home,Air Purifier,Standard Air Purifier,1987,2504.22
+P0044,Home,Air Purifier,War Air Purifier,540,872.86
+P0045,Home,Air Purifier,She Air Purifier,259,317.95
+P0046,Home,Air Purifier,Then Air Purifier,1830,2257.62
+P0047,Home,Air Purifier,Between Air Purifier,934,1330.86
+P0048,Home,Air Purifier,Coach Air Purifier,498,670.57
+P0049,Home,Air Purifier,Bit Air Purifier,1043,1605.76
+P0050,Home,Air Purifier,Worker Air Purifier,1823,2384.55
+P0051,Home,Cookware Set,Plan Cookware Set,558,696.04
+P0052,Home,Cookware Set,Radio Cookware Set,1983,2834.75
+P0053,Home,Cookware Set,Far Cookware Set,1599,2149.85
+P0054,Home,Cookware Set,Citizen Cookware Set,1394,1792.5
+P0055,Home,Cookware Set,Step Cookware Set,1144,1810.66
+P0056,Home,Cookware Set,Provide Cookware Set,1141,1544.0
+P0057,Home,Cookware Set,Activity Cookware Set,219,380.92
+P0058,Home,Cookware Set,Can Cookware Set,1152,2005.32
+P0059,Home,Cookware Set,Study Cookware Set,1587,2424.87
+P0060,Home,Cookware Set,Choose Cookware Set,351,514.23
+P0061,Beauty,Perfume,Mention Perfume,907,1625.88
+P0062,Beauty,Perfume,Opportunity Perfume,812,1285.69
+P0063,Beauty,Perfume,Involve Perfume,1068,1723.95
+P0064,Beauty,Perfume,Nearly Perfume,1135,1937.65
+P0065,Beauty,Perfume,Blood Perfume,607,1092.37
+P0066,Beauty,Perfume,Lot Perfume,1947,2900.88
+P0067,Beauty,Perfume,Manage Perfume,685,978.74
+P0068,Beauty,Perfume,Father Perfume,935,1444.47
+P0069,Beauty,Perfume,Record Perfume,1632,2247.49
+P0070,Beauty,Perfume,Find Perfume,1899,3028.79
+P0071,Beauty,Face Cream,Chance Face Cream,762,918.1
+P0072,Beauty,Face Cream,Action Face Cream,1971,3176.23
+P0073,Beauty,Face Cream,Chance Face Cream,1725,3077.68
+P0074,Beauty,Face Cream,Late Face Cream,1441,2373.48
+P0075,Beauty,Face Cream,For Face Cream,1905,3319.45
+P0076,Beauty,Face Cream,Tend Face Cream,786,1309.04
+P0077,Beauty,Face Cream,Attack Face Cream,671,1049.6
+P0078,Beauty,Face Cream,Through Face Cream,921,1226.22
+P0079,Beauty,Face Cream,Sister Face Cream,589,926.22
+P0080,Beauty,Face Cream,Bill Face Cream,1588,2625.51
+P0081,Beauty,Hair Dryer,Well Hair Dryer,1771,2825.65
+P0082,Beauty,Hair Dryer,Industry Hair Dryer,1916,2456.44
+P0083,Beauty,Hair Dryer,Can Hair Dryer,398,693.33
+P0084,Beauty,Hair Dryer,Gun Hair Dryer,1523,1863.62
+P0085,Beauty,Hair Dryer,Southern Hair Dryer,1815,2658.06
+P0086,Beauty,Hair Dryer,Lose Hair Dryer,1386,1966.62
+P0087,Beauty,Hair Dryer,Plant Hair Dryer,469,588.16
+P0088,Beauty,Hair Dryer,Rest Hair Dryer,804,1122.41
+P0089,Beauty,Hair Dryer,Song Hair Dryer,1050,1370.65
+P0090,Beauty,Hair Dryer,Career Hair Dryer,470,785.8
+P0091,Fashion,Sneakers,Natural Sneakers,1994,3555.09
+P0092,Fashion,Sneakers,Part Sneakers,1287,1931.89
+P0093,Fashion,Sneakers,Growth Sneakers,758,1287.3
+P0094,Fashion,Sneakers,Ball Sneakers,726,1269.36
+P0095,Fashion,Sneakers,Himself Sneakers,1186,2111.59
+P0096,Fashion,Sneakers,Accept Sneakers,804,1324.94
+P0097,Fashion,Sneakers,Number Sneakers,893,1502.51
+P0098,Fashion,Sneakers,Sign Sneakers,1159,2060.4
+P0099,Fashion,Sneakers,Ten Sneakers,488,806.42
+P0100,Fashion,Sneakers,Training Sneakers,662,1136.05
+P0101,Fashion,Jacket,Writer Jacket,1683,2700.62
+P0102,Fashion,Jacket,Worker Jacket,1013,1803.51
+P0103,Fashion,Jacket,Information Jacket,1847,2834.01
+P0104,Fashion,Jacket,Response Jacket,384,642.97
+P0105,Fashion,Jacket,Up Jacket,228,309.78
+P0106,Fashion,Jacket,Life Jacket,453,667.21
+P0107,Fashion,Jacket,Look Jacket,1577,2601.11
+P0108,Fashion,Jacket,Team Jacket,736,1141.34
+P0109,Fashion,Jacket,Chair Jacket,1884,2982.62
+P0110,Fashion,Jacket,All Jacket,960,1214.41
+P0111,Fashion,Jeans,Task Jeans,678,1005.4
+P0112,Fashion,Jeans,Word Jeans,1468,2540.43
+P0113,Fashion,Jeans,Across Jeans,1349,1884.29
+P0114,Fashion,Jeans,Ground Jeans,1449,1931.26
+P0115,Fashion,Jeans,He Jeans,329,520.23
+P0116,Fashion,Jeans,Administration Jeans,1150,2007.48
+P0117,Fashion,Jeans,Your Jeans,818,1300.25
+P0118,Fashion,Jeans,Also Jeans,438,562.33
+P0119,Fashion,Jeans,Sing Jeans,276,381.6
+P0120,Fashion,Jeans,During Jeans,1208,1533.76
+P0121,Food,Coffee,Story Coffee,680,1178.0
+P0122,Food,Coffee,Bit Coffee,477,683.63
+P0123,Food,Coffee,Travel Coffee,959,1536.6
+P0124,Food,Coffee,Get Coffee,1721,2784.39
+P0125,Food,Coffee,Day Coffee,1306,1895.63
+P0126,Food,Coffee,Training Coffee,1720,2813.85
+P0127,Food,Coffee,Mrs Coffee,1049,1671.01
+P0128,Food,Coffee,Without Coffee,1907,2848.31
+P0129,Food,Coffee,Ball Coffee,1035,1825.15
+P0130,Food,Coffee,Light Coffee,772,941.55
+P0131,Food,Chocolate Box,Agreement Chocolate Box,958,1274.49
+P0132,Food,Chocolate Box,Wide Chocolate Box,1110,1965.07
+P0133,Food,Chocolate Box,Picture Chocolate Box,1951,2765.76
+P0134,Food,Chocolate Box,Tax Chocolate Box,1604,2278.32
+P0135,Food,Chocolate Box,Policy Chocolate Box,1520,2151.11
+P0136,Food,Chocolate Box,Mother Chocolate Box,1015,1386.01
+P0137,Food,Chocolate Box,Hand Chocolate Box,450,796.23
+P0138,Food,Chocolate Box,Return Chocolate Box,1887,2779.23
+P0139,Food,Chocolate Box,Establish Chocolate Box,1557,2066.55
+P0140,Food,Chocolate Box,Impact Chocolate Box,1509,2351.46
+P0141,Food,Olive Oil,Attack Olive Oil,243,298.97
+P0142,Food,Olive Oil,Ever Olive Oil,883,1188.64
+P0143,Food,Olive Oil,International Olive Oil,457,764.19
+P0144,Food,Olive Oil,Certainly Olive Oil,620,769.52
+P0145,Food,Olive Oil,President Olive Oil,1767,2707.97
+P0146,Food,Olive Oil,Radio Olive Oil,1400,1861.4
+P0147,Food,Olive Oil,Reduce Olive Oil,1981,2654.14
+P0148,Food,Olive Oil,Range Olive Oil,1785,2300.03
+P0149,Food,Olive Oil,Experience Olive Oil,1420,1706.42
+P0150,Food,Olive Oil,Fear Olive Oil,1958,3505.64
